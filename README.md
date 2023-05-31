@@ -174,9 +174,8 @@ Project Link: [https://github.com/ngan-110/OA_RobotAstro](https://github.com/nga
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Observational Astronomy Course 2023]()
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
